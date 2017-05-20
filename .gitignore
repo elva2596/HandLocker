@@ -1,0 +1,9 @@
+.idea
+*.log
+*.DS_Store
+/img/*
+webhook.php
+.inviteimg
+node_modules
+application/const.php
+public/
